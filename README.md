@@ -9,7 +9,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-ZsX8PUPd7k)
-- Live Site URL: [Live site URL here](https://donjr2.github.io/Testimonials-grid-section-solution/)
+- Live Site URL: [Live site URL here](https://donjr2.github.io/Frontend-Mentor---Testimonials-grid-section-solution/)
 
 ### Built with
 
