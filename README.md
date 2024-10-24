@@ -8,8 +8,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-ZsX8PUPd7k)
+- Live Site URL: [Live site URL here](https://donjr2.github.io/Testimonials-grid-section-solution/)
 
 ### Built with
 
